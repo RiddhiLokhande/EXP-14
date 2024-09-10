@@ -41,7 +41,8 @@ int main()
 ```
 ### Output 
 (A) <br>  
-![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14A.png) 
+<img width="691" alt="EXP 14A OUTPUT" src="https://github.com/user-attachments/assets/257e46cb-ab5b-4380-9c3a-c9f5e6b707dd">
+
 
 (B) <br> 
 ```cpp
@@ -84,8 +85,10 @@ int main(){
 } 
 
 ```
+#### Output
 (B) <br> 
-![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14B.png) 
+<img width="623" alt="EXP 14 B OUTPUT" src="https://github.com/user-attachments/assets/30a33fd1-ae0e-4253-9040-f2eff819ddcb">
+
 
 
 (C) <br> 
@@ -150,15 +153,59 @@ int main()
     return 0;
 }                                     
 ```
+#### Output
 (C) <br> 
-![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14C.png) 
+<img width="628" alt="EXP 14 C OUTPUT" src="https://github.com/user-attachments/assets/c4d6a351-680e-48dd-85a7-9ad567586b37">
+
 (D) <br> 
 ```cpp
+// NMAE - RIDDHI LOKHANDE
+// PRN - 23070123107
+// EXPERIMENT - 14(D) 
+
+// Program to show Hiererchical Inheritance.                    
+
+#include <iostream>
+using namespace std;
+
+// base class
+class Flower {
+public:
+    Flower() { cout << "This is a Flower. \n"; }
+};
+
+// first sub class
+class Lotus : public Flower {
+public:
+    Lotus() { cout << "This flower is a lotus. \n"; }
+};
+
+// second sub class
+class Marigold : public Flower {
+public:
+    Marigold() { cout << "Thisflower is a marigold. \n"; }
+};
+
+// main function
+int main()
+{
+    // Creating object of sub class will invoke the constructor of base class.
+    Lotus obj1;
+    Marigold obj2;
+    return 0;
+} 
+
+// Output 
+// This is a Flower. 
+// This flower is a lotus. 
+// This is a Flower.
+// Thisflower is a marigold. 
 ```
 
 ### Output 
 
 (D) <br> 
-![]() 
+<img width="604" alt="EXP 14 D OUTPUT" src="https://github.com/user-attachments/assets/a9cd7bc4-322e-4764-81f4-87edb851a99e">
+
 
 ### Conclusion 
