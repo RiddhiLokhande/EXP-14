@@ -25,8 +25,6 @@ Multilevel Inheritance: A derived class is derived from another derived class.
 
 Hierarchical Inheritance: Multiple derived classes inherit from a single base class.
 
-Hybrid Inheritance: A combination of two or more types of inheritance.
-
 
 ### Code 
 (A) <br> 
