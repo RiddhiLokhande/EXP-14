@@ -1,4 +1,4 @@
-# Experiment---14 
+# Experiment 14 
 
 ### Aim 
 To study and implement Inheritance
