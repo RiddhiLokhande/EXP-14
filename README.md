@@ -1,7 +1,7 @@
 # Experiment 14 
 
 ### Aim 
-To study and implement Inheritance
+To study and implement Inheritance in c++.
 
 ### Software 
 Visual Studio Code
