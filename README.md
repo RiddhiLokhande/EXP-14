@@ -39,6 +39,9 @@ int main()
 } 
 
 ```
+### Output 
+(A) <br>  
+![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14A.png) 
 
 (B) <br> 
 ```cpp
@@ -81,6 +84,9 @@ int main(){
 } 
 
 ```
+(B) <br> 
+![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14B.png) 
+
 
 (C) <br> 
 ```cpp
@@ -144,20 +150,13 @@ int main()
     return 0;
 }                                     
 ```
-
+(C) <br> 
+![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14C.png) 
 (D) <br> 
-```
+```cpp
 ```
 
 ### Output 
-(A) <br>  
-![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14A.png) 
-
-(B) <br> 
-![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14B.png) 
-
-(C) <br> 
-![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14C.png) 
 
 (D) <br> 
 ![]() 
